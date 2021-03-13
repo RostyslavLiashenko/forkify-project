@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88021609-c40c-44c9-b6f2-ed615c274bff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pFGbOxjyQe15Rx8Z2OQKsM5lUy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\owner\Downloads\js_course\complete-javascript-course-master\18-forkify\starter\src\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88021609-c40c-44c9-b6f2-ed615c274bff" name="Default Changelist" comment="" />
+      <created>1614771497758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614771497758</updated>
+      <workItem from="1614771500225" duration="14419000" />
+      <workItem from="1614855285947" duration="12260000" />
+      <workItem from="1614941623860" duration="5511000" />
+      <workItem from="1614975123705" duration="7295000" />
+      <workItem from="1615026450473" duration="5108000" />
+      <workItem from="1615105916965" duration="28657000" />
+      <workItem from="1615208327331" duration="10557000" />
+      <workItem from="1615282674058" duration="1318000" />
+      <workItem from="1615376652705" duration="4382000" />
+      <workItem from="1615391645137" duration="8820000" />
+      <workItem from="1615460895777" duration="6262000" />
+      <workItem from="1615558397595" duration="2400000" />
+      <workItem from="1615632155868" duration="2494000" />
+      <workItem from="1615635814005" duration="2644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614859002947">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1614859002947" />
+    <state x="390" y="97" width="688" height="534" key="find.popup" timestamp="1615485996999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="97" width="688" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1615485996999" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1615120102088">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1615120102088" />
+  </component>
+</project>
